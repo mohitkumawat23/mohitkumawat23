@@ -1,5 +1,4 @@
 ## Hello World👋!
-![](https://visitor-badge.glitch.me/badge?page_id= mohitkumawat23. mohitkumawat23)
 <br/>
 Hi, I am Mohit kumwat pursuing BTech in Computer Science Engineering🎓. I am a keen learner and love to explore new technologies 💻 and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage inclusion in communities as we never grow alone but always with a community.
 
@@ -10,7 +9,7 @@ Hi, I am Mohit kumwat pursuing BTech in Computer Science Engineering🎓. I am a
 - 👯 I’m looking to collaborate on - Any Open Source Project involving Web Development/ Machine Learning / AndroidD 
 - 🤔 I’m looking for help with Data Structure and Algorithms🥺
 - 💬 Ask me about anything tech. I'll try my best to help you out!
-- 📫 How to reach me: Follow me on these platforms! :    <a href="https://twitter.com/mohit__kumawat"><img alt="Mohit Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/ Mohitkumawat23/"><img alt=" Mohit LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>    <a href="https://www.instagram.com/mohitkumawat.mk/"><img alt=" Mohit Instagram"
+- 📫 How to reach me: Follow me on these platforms! :    <a href="https://twitter.com/mohit__kumawat"><img alt="Mohit Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/ Mohitkumawat23/"><img alt=" Mohit LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>    <a href="https://www.instagram.com/mohit.kumawatmk/"><img alt=" Mohit Instagram"
 width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "Whats the object-oriented way to become wealthy?" - Inheritance
@@ -38,7 +37,4 @@ width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.s
   <img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=Tensorflow" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p>
-    <img  src="https://github-readme-stats.vercel.app/api?username= mohitkumawat23&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt=" Mohit's github stats"/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username= mohitkumawat23&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt=" Mohit's github stats"/>
- </p>
+
