@@ -1,5 +1,5 @@
 ## Hello World👋!
-![](https://visitor-badge.glitch.me/badge?page_id= mohitkumawat23.mohitkumawat23)
+![](https://visitor-badge.glitch.me/badge?page_id= mohitkumawat23. mohitkumawat23)
 <br/>
 Hi, I am Mohit kumwat pursuing BTech in Computer Science Engineering🎓. I am a keen learner and love to explore new technologies 💻 and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage inclusion in communities as we never grow alone but always with a community.
 
@@ -39,6 +39,6 @@ width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.s
   <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username= MohitJain07&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt=" Mohit's github stats"/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username= MohitJain07&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt=" Mohit's github stats"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username= mohitkumawat23&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt=" Mohit's github stats"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username= mohitkumawat23&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt=" Mohit's github stats"/>
  </p>
