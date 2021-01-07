@@ -1,5 +1,5 @@
 ## Hello World👋!
-![](https://visitor-badge.glitch.me/badge?page_id= mohitkumawat23)
+![](https://visitor-badge.glitch.me/badge?page_id= mohitkumawat23.mohitkumawat23)
 <br/>
 Hi, I am Mohit kumwat pursuing BTech in Computer Science Engineering🎓. I am a keen learner and love to explore new technologies 💻 and leverage them to solve real-life problems. I'm driven by the will to create an impact and encourage inclusion in communities as we never grow alone but always with a community.
 
